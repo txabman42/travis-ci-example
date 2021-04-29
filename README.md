@@ -1,3 +1,3 @@
 # travis-ci-example
 
-https://travis-ci.com/txabman42/travis-ci-example.svg?branch=main
+[![Build Status](https://travis-ci.com/txabman42/travis-ci-example.svg?branch=main)](https://travis-ci.com/txabman42/travis-ci-example)
